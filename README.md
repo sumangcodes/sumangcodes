@@ -1,7 +1,3 @@
-Here's a draft GitHub bio for you, inspired by the style of Anurag Hazra’s profile, but tailored to your expertise:
-
----
-
 ### Hi there, I'm Suman Ghosh 👋
 
 **Full-Stack Developer | Cloud Migration Specialist | Java & Kubernetes Expert**
